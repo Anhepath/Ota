@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/Anhepath/STM32-OTA/main/build/blink_9.bin",  
+  "link": "https://raw.githubusercontent.com/Anhepath/STM32-OTA/main/build/blink_14.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
